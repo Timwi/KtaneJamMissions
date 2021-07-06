@@ -14,7 +14,7 @@ MonoBehaviour:
   DisplayName: 'Jam 1: Board Games'
   Description: "Just one game, they said, and started to play \u2014 that was yesterday."
   GeneratorSetting:
-    TimeLimit: 1800
+    TimeLimit: 2700
     NumStrikes: 7
     TimeBeforeNeedyActivation: 23
     FrontFaceOnly: 0
