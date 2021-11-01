@@ -16,6 +16,6 @@ MonoBehaviour:
   author: Timwi
   description: Mission pack with bombs containing modules created for the KTANE Modding
     Jams.
-  version: 1.0
+  version: 2.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: d8ee926d0a0d57d44901723c46ee4ad1, type: 3}
